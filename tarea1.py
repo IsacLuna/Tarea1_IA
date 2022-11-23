@@ -1,6 +1,5 @@
 
 from curses.ascii import isdigit
-from curses.ascii import isdigit
 import re
 import os 
 
